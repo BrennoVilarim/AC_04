@@ -1,0 +1,46 @@
+.divao
+{
+    padding: 10px;
+    margin-left: 33%;
+    width: 500px;
+    border: 1px solid black;
+    background-color: mediumslateblue;
+}
+h1
+{
+    text-align: center;
+    font-style: italic;
+}
+.campao
+{
+    font-weight: bolder;
+    background-color: lightblue;
+}
+
+.campao:focus
+{
+    background-color: white;
+}
+textarea {
+    resize: none;
+    width: 98%;
+    height: 100px;
+  }
+  td
+  {
+      padding-left: 15px;
+      padding-right: 15px;
+  }
+  table
+  {
+      width: 100%;
+  }
+  #btnCarregar
+  {
+        border-radius: 5px;
+        font-style: italic;
+  }
+  label
+  {
+      font-style: italic;
+  }
